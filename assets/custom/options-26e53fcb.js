@@ -1,0 +1,1 @@
+for(var optnCard=document.getElementById("optnCard"),optns=optnCard.getElementsByClassName("option"),i=0;i<optns.length;i++)optns[i].addEventListener("click",function(){var e=document.getElementsByClassName("active");e[0].className=e[0].className.replace(" active",""),this.className+=" active"});

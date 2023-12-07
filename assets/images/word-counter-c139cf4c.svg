@@ -1,0 +1,10 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Artboard Copy
+  </title>
+  <g transform="translate(1 3)" fill-rule="evenodd" fill="#FFF">
+    <rect y="4" width="14" height="2" rx="1"/>
+    <rect width="8" height="2" rx="1"/>
+    <rect y="8" width="10" height="2" rx="1"/>
+  </g>
+</svg>
